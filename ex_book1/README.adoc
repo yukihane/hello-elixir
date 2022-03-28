@@ -1,0 +1,2 @@
+Elixir実践ガイド
+https://book.impress.co.jp/books/1120101021
